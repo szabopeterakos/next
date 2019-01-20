@@ -1,0 +1,124 @@
+NEXT:
+
+--------------------------------
+p r e  s k i l l s
+--------------------------------
+erettsegi:
+2012.05.14
+
+matek:
+-
+
+angol:
+-
+
+ocp:
+- 
+
+hackerrank:
+-
+
+code_reading
+-
+
+---------------------------------
+specific language or framework
+---------------------------------
+js:
+- 
+
+java:
+-
+
+angular + typescript:
+-
+
+ios:
+-
+
+swift:
+- 
+
+angol:
+-
+
+ocp:
+- 
+
+hackerrank:
+-
+
+spark sql:
+- 
+
+hbase:
+- 
+
+---------------------------------
+b o o k s
+---------------------------------
+Frontend Architecture for Design Systems
+- 
+
+Eloquent Javascript
+-
+
+Ready Player One
+-
+
+Force Unleashed
+-
+
+Emlekmas
+-
+
+---------------------------------
+a c t i v i t i e s
+---------------------------------
+run
+-
+
+bike
+-
+
+swim
+-
+
+tennis
+-
+
+football
+-
+
+gym
+-
+
+basketball
+-
+
+
+---------------------------------
+s e r i e s
+---------------------------------
+how i met you moter
+-
+
+black mirror
+-
+
+green arrow
+-
+
+south park
+-
+
+stranger things
+-
+
+---------------------------------
+l i s t e n
+---------------------------------
+balazsek
+-
+
+
